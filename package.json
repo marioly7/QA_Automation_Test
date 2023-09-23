@@ -1,0 +1,25 @@
+{
+  "name": "qa-automation-todoly",
+  "version": "1.0.0",
+  "description": "QA Automation - Testing Bolivia",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.6.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioly7/QA_Automation_Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marioly7/QA_Automation_Test/issues"
+  },
+  "homepage": "https://github.com/marioly7/QA_Automation_Test#readme"
+}
